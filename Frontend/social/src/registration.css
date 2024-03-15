@@ -1,0 +1,48 @@
+.main2{
+    display: flex;
+}
+.image_reg{
+    width: 50%;
+    padding: 20px 0px 0px 40px;
+}
+.data2{
+    width: 50%;
+}
+
+.form2{
+    padding: 180px 200px ;
+}
+
+.newname{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    border: 2px solid #5865F2;
+    outline: none;
+    color: #5865F2;
+    border-radius: 5px;
+}
+.newpass{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    border: 2px solid #5865F2;
+    outline: none;
+    color: #5865F2;
+    border-radius: 5px;
+}
+.sub2{
+    font-size: 15px;
+    background-color: #0EBD60;
+    color: #fff;
+    padding: 10px 30px 10px 30px;
+    font-weight: bold;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+.labels2{
+    color: #0EBD60;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}

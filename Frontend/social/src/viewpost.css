@@ -1,0 +1,8 @@
+.view{
+    color: #A9A9A9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* box-sizing: border-box; */
+    font-weight: bold;
+    border: 2px solid #5865F2;
+    padding: 10px;
+}
