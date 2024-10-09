@@ -65,7 +65,7 @@ const ContactForm = () => {
                             <label className='labels'>E-MAIL</label><br/><br/>
                             <input
                                 type="email"
-                                placeholder="Enter your email"
+                                placeholder="Enter your Email"
                                 name="email"
                                 value={email}
                                 onChange={e => onChange(e)}
